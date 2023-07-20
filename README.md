@@ -1,1 +1,3 @@
 # TP_6
+## Cualquier detalle, informeme, todo sera corregido
+#### Me cae mejor Json que Base de datos...
